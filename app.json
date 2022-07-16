@@ -24,14 +24,7 @@
   "IG": {
     "description": "Your InsterGram Name",
     "required": true
-  },
-    "OWNERNUMBER1": {
-    "description": "Owner NUmber",
-    "required":false
-  },
-    "OWNERNUMBER2": {
-    "description": "Owner NUmber",
-    "required":false
+ 
   },
   "AUTHER": {
     "description": "Auther Name",
