@@ -1,7 +1,7 @@
 {
   "name": "SATHAN_MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/oshadaXD/SATHAN-MD",
+  "repository": "https://github.com/oshadaXD/CheemsBot-MD2",
   "logo": "https://ibb.co/4Jjkbsq",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "env": {
