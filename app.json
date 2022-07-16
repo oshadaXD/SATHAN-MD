@@ -9,6 +9,14 @@
       "description": "Bot Owner Number",
       "required": true
       },
+    "OWNERNUMBER1": {
+      "description": "Bot Owner Number",
+      "required": true
+      },
+    "OWNERNUMBER2": {
+      "description": "Bot Owner Number",
+      "required": true
+      },
   "OWNERNAME": {
       "description": "Owner Name",
       "required": false
