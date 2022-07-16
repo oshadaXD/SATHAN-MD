@@ -1,8 +1,8 @@
 {
-  "name": "CheemsBot-MD",
+  "name": "SATHAN_MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/DGXeon/CheemsBot-MD2",
-  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "repository": "https://github.com/oshadaXD",
+  "logo": "https://ibb.co/4Jjkbsq",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "env": {
     "OWNERNUMBER": {
@@ -24,6 +24,14 @@
   "IG": {
     "description": "Your InsterGram Name",
     "required": true
+  },
+    "OWNERNUMBER1": {
+    "description": "Owner NUmber",
+    "required":false
+  },
+    "OWNERNUMBER2": {
+    "description": "Owner NUmber",
+    "required":false
   },
   "AUTHER": {
     "description": "Auther Name",
