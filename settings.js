@@ -21,20 +21,20 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = process.env.OWNERNUMBER|| ['94775792013']
-global.premium = ['94775792013']
-global.ownernomer = '94775792013'
-global.ownername = process.env.OWNERNAME|| '⛧ S A T H A N ⸸ '
-global.botname = process.env.BOTNAME|| '⛧ S A T H A N ⸸ '
-global.footer = process.env.WATERMARK|| '⛧ S A T H A N ⸸ '
-global.ig = process.env.IG|| 'https://github.com/oshadaXD'
-global.region = 'sri lanka, western province, gampaha'
+global.owner = process.env.OWNERNUMBER|| ['94702288014']
+global.premium = ['94702288014']
+global.ownernomer = '94702288014'
+global.ownername = process.env.OWNERNAME|| '🇱🇰⚓️𝚂𝙻 𝙽𝙰𝚅𝙸𝚈𝙰👨‍💻 ⸸ '
+global.botname = process.env.BOTNAME|| '🇱🇰⚓️𝚂𝙻𝙽𝚊𝚟𝚒𝚢𝚊-𝙱𝚘𝚝🤖⸸ '
+global.footer = process.env.WATERMARK|| '🇱🇰⚓️𝚂𝙻 𝙽𝙰𝚅𝙸𝚈𝙰🤖 ⸸ '
+global.ig = process.env.IG|| 'https://github.com/SLNaviya'
+global.region = 'sri lanka, rathnapura province, godakawela'
 global.sc = 'https://github.com/'
-global.myweb = 'oshada.ga'
-global.group = process.env.GROUP|| 'https://chat.whatsapp.com/IM3kisqn93y5ulAwobJUaC'
+global.myweb = 'https://sites.google.com/view/slnaviyaofficial'
+global.group = process.env.GROUP|| 'https://chat.whatsapp.com/JwbAco03xXr970fBIpwroS'
 global.packname = 'Sticker'
 global.reactmoji = "😘" //ur menu react emoji
-global.author = process.env.AUTHER|| '⛧ S A T H A N ⸸ '
+global.author = process.env.AUTHER|| '⛧ 𝚂𝙻 𝙽𝙰𝚅𝙸𝚈𝙰 ⸸ '
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
