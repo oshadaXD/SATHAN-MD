@@ -10,7 +10,7 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@oshadaoshadsf/SATHAN-MD-1?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?button-url=https://github.com/oshadaXD/SATHAN-MD/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/oshadaXD/SATHAN-MD/)
 
 
 
